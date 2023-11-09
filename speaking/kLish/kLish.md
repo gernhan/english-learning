@@ -59,3 +59,10 @@ You should say:
 * Memos:
     - You have to talk about people, not about you
     - The answers need to be structured reasonably
+
+### How we will be evaluated?
+
+- FC: Fluency (6 and above) and Coherence
+- LR: Lexical resources 
+- GRA: Grammar
+- PR: Pronunciation
