@@ -32,10 +32,13 @@ The table compares two primary schools in terms of the proportions of their pupi
         * 'Consumption' has no synonyms. It contains 'amount' meaning inside it.
     * Spending for/on books - expenditure for/on books - the amount of money spent/expended on/for
 
-    * Sale of golds
+    * Sale of golds = Gold sales = The amount of gold sold / The value of gold sold
 
     * Incidence of X disease = the rate of X disease = the number of X disease incidents/cases/rates
+
     * Unemployment rate = the percentage/proportion/rate of the unemployed = jobless rate.
+
+    * The 18-25 age group = The 18-25 = people / Americans aged 18-25 = 18-25-year-old people/Americans 
 
     * Abandon 'quantity', 'ratio'
 
@@ -62,7 +65,7 @@ Recently: not related to the habits and frequency
 
 ### Writing an overview
 
-It is noticeable that school A had higher proportions of children all seven educational difficulties in both years. However, while school A managed to reduce the incidence of most of the problems between 2005 and 2020.
+*It is noticeable that* school A had *higher proportions* of children all seven educational difficulties in both years. *However*, while school A managed to *reduce* the incidence of most of the problems between 2005 and 2015, school B saw an overall *rise* in the percentage of children who were struggling.
 
 
 Things to include: 
@@ -81,5 +84,5 @@ Formulae:
     * In addition, S+V
     * Additionally, S+V
 
-    * However/Nevertheless/In contrast/On the contrary, S+V
+    * [However, / Nevertheless, / In contrast, / On the contrary, ] S+V
     * Meanwhile, S+V
