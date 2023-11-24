@@ -86,3 +86,74 @@ Formulae:
 
     * [However, / Nevertheless, / In contrast, / On the contrary, ] S+V
     * Meanwhile, S+V
+
+## Day 3
+
+### Charts with trends
+
+#### General approach
+
+##### Step 1: 3Ws
+
+- What
+- Where
+- When: Tenses
+
+##### Step 2: Legends and Units
+
+- Legends
+- Units
+
+##### Step 3: Trends and Features
+
+- Overview:
+    - Describe the most general trends, and if not then describe the most significant items in terms of changes. 
+    - For a single legend:
+        - Describe the only trend or both trends.
+        - If there is more than two trends, compare the first and the last points of the line for one trend only.
+    - For multiple legends:
+        - Describe the only trend or both trends.
+        - If there is more than two trends:
+            - If there is clear ranking among the legends, describe the global trend of the highest one.
+            - If there is no clear ranking among the legends, describe the global trend with the most significant changes.
+- Body: how to structure → analyze vertically or horizontally
+    - Collect in 2 groups, in each group, items share some traits. 
+- Detail: how many sentences (7-9) or how deeply to dig in
+    - Trends
+    - Figures
+* As many as the trends can be, as little as details is needed for each one of them. 
+
+#### Samples
+
+##### U.S. Meat & Poultry consumption, per capita, boneless, by species.
+
+- `Khái niệm duy nhất thì phải có ***the***`
+
+- Overview: 
+    - Beef = highest - majority
+    - Broilers: highest increase
+- Body: 
+    - Vertically: choose 1976 to divide the graph into 2 parts
+    - Horizontally: 
+        - Beef and Broilers
+        - Pork and Turkey
+    - Details: Choose points especially the ones at which some changes happen, or they are the minimum or maximum ones. The points are specific for each legend. It is unnecessary to reluctantly find common points.
+
+Body 1: 1955 - 1976
+
+Beef: Increased sharply from 60 to a peak of 90 pounds per capita.
+Pork: fluctuated between 40 and 50 pounds.
+Broilers:Increased slightly to around 25 pounds.
+Turkey: almost unchanged at under 10 pounds.
+
+Body 2: 1976 - the end
+
+Beef: decreased sharply to 50 pounds per person per year.
+Pork: increased sharply to around 60 pounds.
+Broilers: almost no significant change.
+Turkey: almost no significant change.
+
+#### Homework
+
+- `Đề bất kỳ trong 3 năm gần đây`
+
