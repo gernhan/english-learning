@@ -153,6 +153,13 @@ Pork: increased sharply to around 60 pounds.
 Broilers: almost no significant change.
 Turkey: almost no significant change.
 
+|           |1955 - 1976|1976 - the end |
+|-----------|---        |---            |
+|Beef       |           |               |
+|Pork       |           |               |
+|Broilers   |           |               |
+|Turkey     |           |               |
+
 #### Homework
 
 - `Đề bất kỳ trong 3 năm gần đây`
