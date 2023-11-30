@@ -1,6 +1,15 @@
 # Listening
 
-## Day 1
+## Overall
+
+* 40 questions, 4 parts
+
+- Part 1: Monologue
+- Part 2: Dialogue with more than 1 person(s)
+- Part 3: Monologue
+- Part 4: Dialogue with more than 1 person(s)
+
+## Lesson 1: Numbers and Letters
 
 Prediction:
 
@@ -32,3 +41,27 @@ h5a4b76a
 7 Apr 1975
 11 Feb 1990
 
+Starbucks
+
+Barista: a person who serves in a coffee shop 
+Turnover rate: very high in US. The turnover rate in Starbucks is high. 
+Localization or Geographical preference: adapt to the local area
+Strong recognition: well-known reputation
+
+Completion Answers need to be: 
+
+- Exactly what you hear
+- No more than 3 words
+
+Answers:
+
+Chain
+1971
+A brand
+Coherent
+Atmosphere
+Differentiation
+Customize
+Afford
+Access
+Saturation

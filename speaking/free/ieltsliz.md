@@ -39,4 +39,10 @@ In today's world, ads are like our go-to buddies for showing us cool stuff to bu
 
 Well, I think, foods and drinks are the most interested things for people, and also businesses target this sector the most. Nowadays, not only through television, we can also find it via social media platforms such as Facebook, TikTok, Instagram. You can see that we have these days a new job: food reviewer. They are everywhere, although at the first place, some people intend to do for fun, but after getting an incredible follows, more and more people consider it to be a job that they can charge brands to introduces their products, widespread their reputations across the country and even around the world.
 
+Writing purpose: 
+
 In my view, food and beverage promotions tend to be the most prevalent, as businesses frequently direct their marketing efforts toward this sector. In modern times, these advertisements are not confined to television alone; they are also extensively to observe that the role of food reviewers has emerged recently as a prominent occupation. Initially, pursued a leisure activity, many have transitioned into professional roles, leveraging their significant followings to collaborate with brands, amplify product visibility, and expand their reach beyond national boundaries, reaching a global audience.
+
+Informal: 
+
+So, like, check it out – these days, food and drink promos are everywhere, you know? Businesses are all about putting their marketing mojo into this scene. And it's not just on TV anymore; you can spot these ads all over the place. Plus, peep this: being a food reviewer is like a legit job now. It used to be just a chill hobby, but now, folks are going pro. They're teaming up with brands, boosting product hype, and going global thanks to their massive followings. Crazy, right? It's a whole new world out there! 🎉
