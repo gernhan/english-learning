@@ -154,7 +154,7 @@ Broilers: almost no significant change.
 Turkey: almost no significant change.
 
 |           |1955 - 1976|1976 - the end |
-|-----------|---        |---            |
+|-----------|-----------|---------------|
 |Beef       |           |               |
 |Pork       |           |               |
 |Broilers   |           |               |
@@ -163,4 +163,95 @@ Turkey: almost no significant change.
 #### Homework
 
 - `Đề bất kỳ trong 3 năm gần đây`
+
+## Day 4
+
+### Building sentences structures
+
+```
+1. S + V_trend + adv + (prep + amount) + (time)
+2. There + be + (a/an) + adj + N_trend + (prep + amount) + in + N_change + (time)
+3. S + (experience/undergo/be subject to) + (a/an) + adj + N_trend + (prep + amount) + in + N_change + (time)
+4. (N_time/N_place) + witness/see + (a/an) N_trend + (prep + amount) + in + N_change + (time)
+5. (a/an) adj + N_trend + be + recorded + (prep + amount) + in + N_change + (time)
+```
+
+Priority:
+1,2 → 5 → 3 → 4
+
+### Prepositions
+
+#### Trends
+
+```
+- increase/decrease (v) + (by + 5%/to + 5%/in + the unemployment rate) - climb, grow, rise
+- increase/decrease (n) + (of + 5%/to + 5%/in + the unemployment rate) - decline, drop, fall
+
+- peak/trough (v) + at
+- peak/trough (v) + of
+
+- remain (v) at
+
+- fluctuate (v) between 40 and 50
+- fluctuate (v) at around 45
+
+- begin/start/commence (v) at/with/from
+- finish/end (v) at/with
+```
+
+### Writing complex sentences
+
+1. Before/After/Then
+
+- Use simple present tense in all cases.
+
+```
+* After S1 + V1, S2 + V2
+* S1 + V1 before S2 + V2
+* S1 + V1, then S2 + V2
+* S1 + V1 and then S2 + V2
+```
+
+2. `V-ing`
+
+```
+V1-ing/Having V1-Pp, S + V2
+```
+
+- Right case:
+    - Increasing / Having increased dramatically by 6% from 2023 to 2304, unemployment rate experienced a drop to 6% in 3456.
+
+- Wrong case:
+    - Increasing dramatically by 6% from 2023 to 2304, there was a drop to 6% in the unemployment rate in Year 3.
+
+3. Relative Clauses
+
+```
+S1 + V1 + N_(subject of changes) which <clause> then + V2
+```
+
+```
+S1 + V1, after which <clause> S2 + V2
+```
+
+- Right case:
+    - From 2023 to 2304, there was a dramatic increase of 6% in the unemployment rate which dropped to 6% in 2343.
+    - The unemployment rate which increased dramatically by 6% from 2023 to 2323 then dropped to 6% in 2343.
+    - The unemployment rate increased dramatically by 6% from 2023 to 2323, after which dropped to 6% in 2343.
+
+- Wrong case:
+    - The unemployment rate increased dramatically by 6% from 2023 to 2323 which then dropped to 6% in 2343.
+
+4. Comparison
+
+```
+S1 + V1 while/whereas S2 + V2
+S1 + V1. In/By contrast, /On the contrary, /On the other hand, /Meanwhile, S2 + V2
+
+S1 + V1. Likewise, /Similarly, /In a similar way, S2 + V2
+S1 + V2, similar to/like /the same as N_(subject of changes) which + V2
+```
+
+The consumption of beef increased sharply, similar to pork consumption which rose dramatically.
+The consumption of beef increased sharply, similar to pork rising dramatically.
 
