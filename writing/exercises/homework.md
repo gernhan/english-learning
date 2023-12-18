@@ -42,3 +42,39 @@ Students in school A were most interested in biology with 60 percent satisfactio
 
 14. The graphs show the overweight population in Britain in 2003 with projections for 2010.
 
+## Session 3
+
+TASK 1: train passengers and punctuality
+
+```
+The first graph shows the number of train passengers from 2000 to 2009. The second graph shows the percentage of trains running on time.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+```
+
+The presented charts illustrate the fluctuations in the volume of train passengers and the punctuality rate of trains from 2000 to 2009.
+
+In general, there was a subtle upward trend in the number of rail passengers throughout the specified period. Likewise, the punctuality rate exhibited fluctuations, experiencing intermittent ups and downs but ultimately showing overall growth.
+
+Commencing the timeframe with 40 billion passengers using trains for their transportations, the figures reached a pinnacle of roughly 49 billion in 2005, despite a slight dip in 2003. From 2005 to 2008, the passenger count gradually decreased by around 9 billion, rebounding to approximately 45 billion in the final year.
+ 
+Throughout this period, the punctuality target constantly aimed for 95 percent. Initially starting at 92 percent in the first year, the rate witnessed significant growth, reaching 96 percent within the subsequent four years. Although experiencing a temporary decline of 4 percent from 2004 to 2006, the figure ascended once again, achieving a new peak of 97 percent in both 2008 and 2009.
+
+## Session 4
+
+IELTS 14/09/2023
+
+Task 1: Pie charts: Class size
+
+```
+The pie charts show the size of classes in primary schools in four states in Australia in 2010.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+```
+
+The charts provide a detailed analysis of primary school class sizes in four Australian regions in 2010. Generally, classes with `21-25` students dominated across all surveyed states, except for South Australia, where classes with fewer than 20 students were predominant. Conversely, classes with over 29 students were infrequent in these regions.
+
+Examining New South Wales initially, it is noteworthy that 37% of primary-level classes in this state featured `21-25` students, closely followed by those with `26-30` students and fewer than 20 students at 33% and 26%, respectively. Conversely, in South Australia, the distribution of classes containing `26-30` students and 20 students or fewer varied from 28% to 36% respectively, with classes capped at 20 students emerging as the most favored. Notably, the proportions for the largest class size in both states were identical, each standing at a mere 4%.
+
+Shifting focus to Australian Capital Territory, it is worth highlighting that classes comprised of `21-25` students constituted the majority, surpassing half of all listed class sizes. In contrast, 38% of classes accommodated no more than 20 students. This discrepancy was particular striking when compared to classes with `26-30` students, which comprised one-tenth of the total, marking a tenfold increase from the smallest size. Moving on to Western Australia, the prevailing class size remained consistent at `21-25` students, claiming 42% of the distribution. A marginal difference surfaced in the proportions of classes with under 20 students and those with `26-30` students, with figures of 26% and 27%, respectively. Trailing behind was the largest class size, representing a modest 5% share.
+
