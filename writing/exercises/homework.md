@@ -52,9 +52,7 @@ The first graph shows the number of train passengers from 2000 to 2009. The seco
 Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
 ```
 
-The presented charts illustrate the fluctuations in the volume of train passengers and the punctuality rate of trains from 2000 to 2009.
-
-In general, there was a subtle upward trend in the number of rail passengers throughout the specified period. Likewise, the punctuality rate exhibited fluctuations, experiencing intermittent ups and downs but ultimately showing overall growth.
+The presented charts illustrate the fluctuations in the volume of train passengers and the punctuality rate of trains from 2000 to 2009. In general, there was a subtle upward trend in the number of rail passengers throughout the specified period. Likewise, the punctuality rate exhibited fluctuations, experiencing intermittent ups and downs but ultimately showing overall growth.
 
 Commencing the timeframe with 40 billion passengers using trains for their transportations, the figures reached a pinnacle of roughly 49 billion in 2005, despite a slight dip in 2003. From 2005 to 2008, the passenger count gradually decreased by around 9 billion, rebounding to approximately 45 billion in the final year.
  
