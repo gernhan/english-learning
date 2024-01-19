@@ -144,7 +144,7 @@ Formulae:
     - Pork and Turkey
   - Details: Choose points especially the ones at which some changes happen, or they are the minimum or maximum ones. The points are specific for each legend. It is unnecessary to reluctantly find common points.
 
-|          | 1955 - 1976                                                 | 1976 - the end                                     |
+| -------- | 1955 - 1976                                                 | 1976 - the end                                     |
 | -------- | ----------------------------------------------------------- | -------------------------------------------------- |
 | Beef     | Increased sharply from 60 to a peak of 90 pounds per capita | decreased sharply to 50 pounds per person per year |
 | Pork     | Fluctuated between 40 and 50 pounds                         | increased sharply to around 60 pounds              |
@@ -247,3 +247,80 @@ S1 + V2, similar to/like /the same as N_(subject of changes) which + V2
 
 The consumption of beef increased sharply, similar to pork consumption which rose dramatically.
 The consumption of beef increased sharply, similar to pork rising dramatically.
+
+## Day 5
+
+### Writing Task 2
+
+#### Type of Essays
+
+1. OPINION
+
+- Argumentative (100%)
+  - You choose only one argument, prove it right and the other is wrong.
+- Discussion
+  - (50 - 50): You feel that both opinions are right.
+  - **_(70 - 30)_**: The type every examinee should choose.
+
+⇒ Always choose 70-30 type
+
+2. NON-OPINION
+
+- Account
+  - Causes
+  - Effects
+  - Solutions
+
+3. TWO-PART QUESTIONS
+
+- Mixed
+- Strange questions
+
+#### Common Errors
+
+⇒ Avoid idioms by all causes
+⇒ Should use: S + `, however`
+⇒ Avoid using: Last but not least, first and foremost
+
+1. Vague languages:
+
+- Environmental pollution is a _big thing_ in many countries around the world
+  → Environmental pollution is a _serious problem_ in many countries around the world
+
+- Dumping waste into the water source without treatment is bad.
+  → Dumping waste into the water source without treatment is _detrimental_.
+
+2. Personal pronouns
+
+- If you want to develop the economy, you must sacrifice environmental protection
+  → If governments want to develop their economy, there is often a trade-off between economic development and environmental protection
+
+3. Informal expressions
+
+- The fact that we develop the economy has resulted in a lot of waste and caused the Earth's ecosystem to suffer
+  → The economic development has _resulted in_/_*released*_/_generated_ a huge amount of waste and _put pressure on_/_*damage*_ the Earth's ecosystem.
+
+4. Phrasal Verbs
+
+- We need to look into the source of problem in order to come up with feasible solution
+  → We need to investigate the source of problem in order to come up with feasible solution
+
+5. Contractions: `Viết tắt`
+
+- don't
+  → do not
+
+- ignore littering (`Vứt rác bừa bãi`)
+
+6. Fragments
+
+- emissions
+
+- alleviate = reduce in quality
+
+7. Run-on
+
+8. Figures of speech - Cliché
+
+- Many species are facing extinction while we cannot find any approach to tackle illegal hunting.
+- Mitigate = alleviate
