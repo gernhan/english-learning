@@ -1,5 +1,18 @@
 # Listening
 
+<!--toc:start-->
+
+- [Listening](#listening)
+  - [Summary](#summary)
+  - [Lesson 1: Numbers and Letters](#lesson-1-numbers-and-letters)
+    - [Section 1](#section-1)
+      - [Entirely Numeric](#entirely-numeric)
+      - [Digits and Letters](#digits-and-letters)
+      - [Dates](#dates)
+  - [Day 2](#day-2)
+
+<!--toc:end-->
+
 ## Summary
 
 - 40 questions, 4 parts
@@ -65,3 +78,68 @@ Customize
 Afford
 Access
 Saturation
+
+## Day 2
+
+New words:
+
+- coral reef
+- radiate = release
+
+- Terrace house: A terrace house, also known as a row house or townhouse, is a kind of residential dwelling where a series of identical or similar houses are joined together in a row. Each house typically shares side walls with its neighboring units and has its own entrance.
+
+### Practice
+
+10.
+
+- mountain ranges
+- waterfall
+
+9.
+
+- wine
+
+8.
+
+- beaches
+- canals
+
+7.
+
+- more than 5000
+- 20000 years
+
+6.
+
+- landmark tourist attraction
+
+5.
+
+- very/exact heart
+- natural landmark
+
+4.
+
+- The second, garden city
+
+3.
+
+- natural state
+- 37%
+
+2.
+
+2500, islands
+
+1.
+
+stunning harbor
+
+Global Warming
+
+A phenomenon that the temperature is driven up due to human activities
+
+Fossil fuel
+Atmosphere
+Reflect
+Intensified
