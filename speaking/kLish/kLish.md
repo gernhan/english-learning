@@ -34,7 +34,7 @@ One individual who truly stands out is Ho Chi Minh, affectionately known as Uncl
 
 * 7 common topics
   - Activities: habits, sports
-  - People
+  - Family and Friends
   - **_Places_**: parks, cities
   - Media & hobbies
   - Events or Memories
@@ -59,6 +59,17 @@ You should say:
 * Memos:
   - You have to talk about people, not about you
   - The answers need to be structured reasonably
+
+- Each answer should provide 3 or 4 details
+
+#### Answer structure
+
+1. First sentence is a discourse marker, agree or not
+2. Second sentence provides your argument
+3. Third sentence offers more details or explanations for your former sentence
+4. Fourth sentence can be used to show examples
+
+### Discourse marker
 
 ### How we will be evaluated?
 
@@ -93,7 +104,7 @@ devote
 deserve a fair promotion
 ```
 
-- With each topics, there are always phrases related, so all we need to do is to form sentences around them
+- With each topic, there are always phrases related, so all we need to do is to form sentences around them
 
 * Source of reference: IELTS Speaking: Mat Clark
 
@@ -112,7 +123,7 @@ deserve a fair promotion
       - Anyway, this really brings be back in time...
       - This takes me back to ... years ago, when...
     - Memories:
-      - Tell a story and limit it 3-4 sentences only. Remember to use PAST tenses
+      - Tell a story and limit it 3–4 sentences only. Remember to use PAST tenses
   - Description
     - Connectives:
       - Now then, what's it like?
@@ -143,3 +154,39 @@ New Words:
 
 - Stuffy: Lacking Fresh Air
 ```
+
+## Day 3
+
+**_ Family and Friends _**
+
+Who is your breadwinner in your family?
+Who do you like talking to the most in your family?
+Would you like to spend more time with your family?
+
+```
+New Words:
+
+- nuclear or extended family
+- selfless
+- great listener = sounding board
+
+- make somebody feel like they have a voice: to respect someone
+```
+
+Do you have a small or large circle of friends?
+What do you often do when you see your best friend?
+How often do you see a best friend?
+Do you think it is important to have a best friend?
+
+- Feelings
+- Examples
+- Reasons
+- Assumptions, like If I could go back in time, I will ...
+- Comparisons
+
+### Homework
+
+Call session: 3 parts
+
+Part 2: An Activity
+Part 3: An Opinion Question: Good Answer Structures and Discourse marker
