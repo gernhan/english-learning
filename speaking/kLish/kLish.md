@@ -1,14 +1,33 @@
+# Speaking
+
+<!--toc:start-->
+
+- [Speaking](#speaking)
+  - [Day 1](#day-1)
+    - [Describe a successful leader that you admire](#describe-a-successful-leader-that-you-admire)
+    - [Part 1: Interview](#part-1-interview)
+    - [Part 2: Individual long-turn](#part-2-individual-long-turn)
+    - [Part 3: Two-way discussion](#part-3-two-way-discussion)
+      - [Answer structure](#answer-structure)
+    - [Discourse marker](#discourse-marker)
+    - [How do interviewers assess?](#how-do-interviewers-assess)
+  - [Day 2](#day-2)
+  - [Day 3](#day-3)
+    - [Homework](#homework)
+
+<!--toc:end-->
+
+## Day 1
+
 ### Describe a successful leader that you admire
 
 Right now, what comes to mind is Ho Chi Minh, often referred to as Uncle Ho. He is an inspirational leader who has profoundly influenced generations of Vietnamese people. He emerged during one of the nation's most vulnerable periods in history and paved the way for a new era of peace and development.
 
-One individual who truly stands out is Ho Chi Minh, affectionately known as Uncle Ho. He remains an influential figure who has deeply impacted multiple generations of Vietnamese citizens. His emergence during a critical juncture in the nation's history paved the way for an era of peace and substantial development.
-
-## Day 1
+One individual who truly stands out is Ho Chi Minh, affectionately known as Uncle Ho. He remains an influential figure who has profoundly influenced generations of Vietnamese citizens. His emergence during a critical juncture in the nation's history paved the way for an era of peace and notable development.
 
 ### Part 1: Interview
 
-- Questions will be related to the interviewee
+- Questions will be relevant to the interviewee
 
 * 5 common topics
   - Work and Study
@@ -23,7 +42,7 @@ One individual who truly stands out is Ho Chi Minh, affectionately known as Uncl
   - The answers should be long enough
     - Provide brief elaboration on the initial statement without excessive details (2-3 sentences)
   - Provide paraphrased expressions in the responses
-  - Sometimes, when forgetting about a specific word or term, just describes what it is
+  - Sometimes, when forgetting about a specific word or term, describes the meanings or the definitions
   - ... and, yeah ....
 
 ### Part 2: Individual long-turn
@@ -45,7 +64,7 @@ Describe a time when you were late.
 
 You should say:
 
-- When it was
+- At that time
 - What happened then
 - What you did
 
@@ -58,7 +77,7 @@ You should say:
 
 * Memos:
   - You have to talk about people, not about you
-  - The answers need to be structured reasonably
+  - The answers need to have a clear structure
 
 - Each answer should provide 3 or 4 details
 
@@ -67,11 +86,11 @@ You should say:
 1. First sentence is a discourse marker, agree or not
 2. Second sentence provides your argument
 3. Third sentence offers more details or explanations for your former sentence
-4. Fourth sentence can be used to show examples
+4. Fourth sentence showcases examples
 
 ### Discourse marker
 
-### How we will be evaluated?
+### How do interviewers assess?
 
 - FC: Fluency (6 and above) and Coherence
 - LR: Lexical resources
@@ -115,15 +134,17 @@ deserve a fair promotion
       - OK, where should I start. I guess I would be talking about...
       - Well, if you ask me, I guess I would choose to talk about...
     - Reasons:
-      - Basically, this is the first thing that pops up in my head, so I guess I'll just go with it
-      - There are many different things/people that I can describe, but it is the most important to me, so here we go
+      - Basically, this is the first thing that pops up in my head, so I guess I'll go with it
+      - There are vastly different people that I can describe, but this is the most important to me, so here we go
   - Memory
     - Connectives:
-      - Anyway, I have quite a story to tell you...
-      - Anyway, this really brings be back in time...
+    ```
+      - Anyway, I have a fasinating story to tell you...
+      - Anyway, this genuinely brings be back in time...
       - This takes me back to ... years ago, when...
+    ```
     - Memories:
-      - Tell a story and limit it 3–4 sentences only. Remember to use PAST tenses
+      - Tell a story and limit it to 3 or 4 sentences. Remember to use PAST tenses
   - Description
     - Connectives:
       - Now then, what's it like?
@@ -176,7 +197,7 @@ New Words:
 Do you have a small or large circle of friends?
 What do you often do when you see your best friend?
 How often do you see a best friend?
-Do you think it is important to have a best friend?
+Do you think having a best friend hold significance?
 
 - Feelings
 - Examples
