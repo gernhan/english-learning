@@ -324,3 +324,7 @@ The consumption of beef increased sharply, similar to pork rising dramatically.
 
 - Many species are facing extinction while we cannot find any approach to tackle illegal hunting.
 - Mitigate = alleviate
+
+## Day 6
+
+ornament = things for decorations
