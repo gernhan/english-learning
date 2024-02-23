@@ -27,9 +27,13 @@ The table compares two primary schools in terms of the proportions of their pupi
 - _Synonyms_
 
   - Show - Illustrate
+
     - 'Describe' is only used for subjects as people
+
   - The consumption of beef - beef consumption - the figure of beef/it - the amount of beef consumed
+
     - 'Consumption' has no synonyms. It contains 'amount' meaning inside it.
+
   - Spending for/on books - expenditure for/on books - the amount of money spent/expended on/for
 
   - Sale of golds = Gold sales = The amount of gold sold / The value of gold sold
@@ -60,6 +64,7 @@ The table compares two primary schools in terms of the proportions of their pupi
   - B, A and C
 
 - _Summary and Listing_
+
   - For example: In three countries - In the USA, Vietnam and China
   - Only use when the list's size is lesser than or equal to 4
 
@@ -86,9 +91,11 @@ Formulae:
 - Sentence 2:
 
   - In addition, S+V
+
   - Additionally, S+V
 
-  - [However, / Nevertheless, / In contrast, / On the contrary, ] S+V
+  - \[However, / Nevertheless, / In contrast, / On the contrary, \] S+V
+
   - Meanwhile, S+V
 
 ## Day 3
@@ -99,8 +106,8 @@ Formulae:
 
 ##### Step 1: 3Ws
 
-- What
-- Where
+- **_What_**
+- **_Where_**
 - When: Tenses
 
 ##### Step 2: Legends and Units
@@ -135,9 +142,12 @@ Formulae:
 - `Khái niệm duy nhất thì phải có ***the***`
 
 - Overview:
+
   - Beef = highest - majority
   - Broilers: highest increase
+
 - Body:
+
   - Vertically: choose 1976 to divide the graph into 2 parts
   - Horizontally:
     - Beef and Broilers
@@ -214,6 +224,7 @@ V1-ing/Having V1-Pp, S + V2
   - Increasing / Having increased dramatically by 6% from 2023 to 2304, unemployment rate experienced a drop to 6% in 3456.
 
 - Wrong case:
+
   - Increasing dramatically by 6% from 2023 to 2304, there was a drop to 6% in the unemployment rate in Year 3.
 
 3. Relative Clauses
@@ -233,6 +244,7 @@ S1 + V1, after which <clause> S2 + V2
   - The unemployment rate increased dramatically by 6% from 2023 to 2323, after which dropped to 6% in 2343.
 
 - Wrong case:
+
   - The unemployment rate increased dramatically by 6% from 2023 to 2323 which then dropped to 6% in 2343.
 
 4. Comparison
@@ -320,7 +332,7 @@ The consumption of beef increased sharply, similar to pork rising dramatically.
 
 7. Run-on
 
-8. Figures of speech - Cliché
+Figures of speech - Cliché
 
 - Many species are facing extinction while we cannot find any approach to tackle illegal hunting.
 - Mitigate = alleviate
@@ -328,3 +340,98 @@ The consumption of beef increased sharply, similar to pork rising dramatically.
 ## Day 6
 
 ornament = things for decorations
+
+## Day 7
+
+### Brainstorming techniques
+
+#### Listing
+
+| Education | Business  |
+| --------- | --------- |
+| Schools   | Companies |
+| Teachers  | Customers |
+| Students  | Suppliers |
+| ...       | ...       |
+
+#### Clustering/Mind mapping
+
+- Benefit of Technology
+  - Education
+  - Communication
+  - Health
+  - Business
+
+#### 6Ws
+
+- Some people think that governments should spend money on public services and facilities, not the arts. To what extent do you agree or disagree?
+
+* **_Where_**: from tax
+* **_Who_**: citizens
+* **_Why_**: for the benefits of citizens
+* **_What_**: intermediate and tangible benefits
+
+1. Public services and facilities
+
+- **_What_**:
+
+  - Offices, Buildings, Stadiums, Theaters, Education, Healthcare, etc.
+
+- **_Why_**:
+
+  - Economic growth:
+    - Transportation infrastructure → deliver goods faster and more effective
+    - Internet & telecom system → meeting online → cost & productivity
+  - Other needs:
+    - Social, educational, athletic, cultural → hospitals, schools, stadiums, museums
+
+- **_What if not_**:
+
+  - No other spending source
+
+2. The arts
+
+- **_What_**:
+
+  - Visual arts: paintings, drawings, sculptures
+
+- **_Why_**:
+
+  - Materials & spiritual needs → relax and entertain
+  - History & culture → teach locals & introduce to the world
+
+- **_What if not_**:
+
+  - Private spending
+    - Pros: quality & content
+    - Cons: price & access
+
+4. Core Topics
+
+Common Ideas
+
+- Economy
+
+  - Cost
+  - Productivity
+  - Employment
+  - Economic growth/GDP
+
+- Environment
+
+  - Pollution
+  - Resources
+  - Habitat
+
+- Human
+
+  - Culture
+  - Emotions
+  - Lifestyle
+  - Benefits
+  - Personal Development
+
+5. Expressions
+
+- Core expressions
+- Topic expressions
