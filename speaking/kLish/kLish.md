@@ -71,7 +71,8 @@ You should say:
 ### Part 3: Two-way discussion
 
 - Duration: 4–6 mins
-- 4-6 questions
+
+- 4–6 questions
 
 - The topics will be the same as the last part, but the questions are more general
 
@@ -84,9 +85,9 @@ You should say:
 #### Answer structure
 
 1. First sentence is a discourse marker, agree or not
-2. Second sentence provides your argument
-3. Third sentence offers more details or explanations for your former sentence
-4. Fourth sentence showcases examples
+1. Second sentence provides your argument
+1. Third sentence offers more details or explanations for your former sentence
+1. Fourth sentence showcases examples
 
 ### Discourse marker
 
@@ -178,7 +179,7 @@ New Words:
 
 ## Day 3
 
-**_ Family and Friends _**
+**\_ Family and Friends \_**
 
 Who is your breadwinner in your family?
 Who do you like talking to the most in your family?
@@ -211,3 +212,48 @@ Call session: 3 parts
 
 Part 2: An Activity
 Part 3: An Opinion Question: Good Answer Structures and Discourse marker
+
+## Day 4
+
+### Talking about people
+
+* Describe a person that you admire
+
+- Appearance:
+
+  - Overall look
+  - Focus on their face
+  - Talk about their style: their clothes (sporty clothes, suit, etc.)
+
+- Personality: With each personality, what is the effect on their life and people around them?
+
+- Talent:
+
+  - How long and in which context do you know that they got their talent?
+  - What is about training they undergo ?
+  - What are their achievements?
+
+* Part 2: Describe a person that you often come to for advise, who the person is, how do you come to know that person?
+
+The person that comes straight to my mind is my father. For my whole life, he has been an icon, a symbol for me to look up into. He is an engineer, a technical guy, so everything he said was so logical and easily understandable. He is always steady even when facing with difficult situations so the chance of getting the best solution is always high. And there is also one more thing that I always want to follow his advises and also his style is the bond between father and son. It is not easy to describe because it is emotional and logically DNA traits.
+
+```
+I’d like to talk about… Basically, this is the first thing/ he/she’s the first person that pops up in my head so I guess I’ll just go with it.
+
+This takes me back to… years ago (kể chuyện)
+
+Now, let me tell you a little more about…
+- (Tả người) In terms of appearance, he/she is … tall and he/she looks quite … He/She has a/an… face which is complimented by his/her sleek … hair. His/Her eyes are … and his/her nose is straight/flat, so I think he/she looks … He/She has fair skin which I’m jealous of, and he/she often wears…
++ About his/ her personality, he/she is the kind of person who…
++ When it comes to his/ her talent, I’d like to focus on…
+```
+
+- Part 2: Describe a person you know who likes to talk a lot. You should say:
+
+Who this person is: He is one of my good friend. He is a big guy
+How you knew this person: I have known him since we were in the university
+What he/she usually talks about: He has a broad knowledge about so many topics such as technology, social problems, and chit-chat stories.
+And explain how you felt about him/her: He has the sense of humor, so I think everybody is just like me, want to sit down, to have a cup of tea and talk with him about work and life.
+
+* Prediction the way people make friends in the next 10 years?
+
