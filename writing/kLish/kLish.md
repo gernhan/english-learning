@@ -435,3 +435,72 @@ Common Ideas
 
 - Core expressions
 - Topic expressions
+
+## Day 8
+
+### Charts with trends
+
+#### Step 1: 3Ws
+
+- When ⇒ Tense
+
+#### Step 2: `LCU`
+
+- Legends: individual
+- Categories: group
+- Unit
+
+#### Step 3: `OBD`
+
+- Overview: 2 sentences
+
+  - Greatest variation
+  - Most significant comparison
+  - Most significant trend
+
+- Body
+
+  - Legends
+  - Categories
+
+#### Examples
+
+- Problem
+
+```
+The bar chart below shows the use of various social networks in a few different countries in 2010.
+```
+
+- Solution
+
+```
+Country A:
+
+- Fb: highest(70%) -> almost twice of Instagram figure.
+- Twitter (20%) -> larger than which of Pinterest by 10%.
+
+Country B and C:
+
+- Fb: (60%) -> Instagram: (40%)
+- The only difference:
+  - Country C: Twitter > Pinterest
+  - Country B: Twitter < Pinterest
+
+Country D:
+
+- Fb: Highest(45%)
+- Twitter: 2nd highest(35%)
+- Pinterest = Instagram(20%)
+```
+
+### Two-Chart
+
+```
+It is clear from the ... (chart) that S + V
+
+It can also be seen from the ... (chart) that S + V
+
+In terms of the bar chart, ...
+
+Regarding the pie chart, ...
+```
