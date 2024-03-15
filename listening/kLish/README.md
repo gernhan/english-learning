@@ -84,6 +84,7 @@ Saturation
 New words:
 
 - coral reef
+
 - radiate = release
 
 - Terrace house: A terrace house, also known as a row house or townhouse, is a kind of residential dwelling where a series of identical or similar houses are joined together in a row. Each house typically shares side walls with its neighboring units and has its own entrance.
@@ -143,3 +144,52 @@ Fossil fuel
 Atmosphere
 Reflect
 Intensified
+
+Suppose to finish Exercise Book 5
+
+## Day 3
+
+### What are global languages?
+
+Dialect: a branch or type of language
+
+```
+1. More than 7000
+2. 12
+3. Chinese
+4. Macro language
+5. Mexico
+6. Spain
+7. None
+8. German
+```
+
+### New words:
+
+- populated: to have people living in
+  Examples: The most populated country is China
+
+- macro: large
+  Examples: Chinese is a macro language
+
+- prevalent: popular
+
+### Exercise
+
+```
+1. A
+2. A -
+3. C
+4. A, B -
+5. C
+```
+
+```
+1. culture relations 
+2. resources
+3. education
+4. contexts
+5. geographic
+6. accents
+7. slow process
+```
