@@ -504,3 +504,129 @@ In terms of the bar chart, ...
 
 Regarding the pie chart, ...
 ```
+
+## Day 9
+
+Advantage - Disadvantage essays
+
+### A form to follow
+
+#### Introduction
+
+- Sentence 1: paraphrase
+- Sentence 2: Answer
+
+```
+
+- I personally think that this practice brings more benefits than drawbacks
+- In my opinion, the advantages of this practice far outweigh its disadvantages
+
+```
+
+#### Body 1 (30%)
+
+```
+
+There are a few benefits of ...
+
+F: To begin with, S (be) appealing in the sense that ...
+- If S+V, S+V
+- For example, S+V. This means that/This is to show that S+V
+
+S: Another advantage of something is that S+V
+
+```
+
+#### Body 2 (70%)
+
+```
+
+On the other hand, the drawbacks of sth are even more important.
+
+F: The first stumbling block caused by st is that ...
+- If S+V, S+V
+- An example for this is that S+V
+
+S: The second argument against sth is that S+V
+
+```
+
+#### Conclusion
+
+```
+
+In conclusion, I am better convinced of the latter point. I believe that we gain more than we lose/we lose more than we gain from ...
+
+```
+
+| Advantage                               | Disadvantage                                                              |
+| --------------------------------------- | ------------------------------------------------------------------------- |
+| benefit                                 | drawback                                                                  |
+| strength                                | weakness                                                                  |
+| appeal (n), appeal (v) to somebody      | issue/obstacle/shortcoming/hindrance/stumbling block/difficulty/challenge |
+| merit                                   | (demerit)                                                                 |
+| beneficial/advantageous aspect//feature | harmful/problematic/troublesome/worrisome/disadvantageous aspect//feature |
+| strong point                            | weak point                                                                |
+
+### Crime and the Laws
+
+- Violate:
+
+  - Violator - Violate the law
+  - Criminal - Break the law
+
+* Follow:
+
+  - Follow the law
+  - Abide by the law
+  - Adhere by the law
+  - Comply with the law
+  - Conform to social norms
+
+- Measure:
+
+  - Security measures
+  - Anti-crime approaches
+
+- Punishment:
+
+  - Issue a warning
+  - Fine somebody $20
+  - Impose a fine of $20 on somebody, receive a fine
+  - Imprisonment (n) → imprison (v) somebody = put somebody in jail = send somebody to prison
+  - (be) sentenced to 10 years in prison, (be) sentenced to 10 year imprisonment
+  - Serve 10 years in prison
+  - life imprisonment (n) → life prisoner (n) = lifer (n)
+
+Death sentence/capital punishment/death penalty
+(+) strictly educate citizens → have strong deterrent (adj) effects → deter (v) from = prevent (v) from
+act as a deterrent (n) to/against something/somebody
+
+effective to prevent dangerous criminals who can hardly be re-educated
+relatively less costly compared to the second most serious punishment: life imprisonment
+illustrate the justice of the law → commit a crime → punished accordingly
+
+(-) Human rights → the right to live is the most basic right of any being → inhumane (adj)
+Give criminals a second chance to turn their life around and become a productive/useful member of society
+Wrong judgement → wrong punishment → irreversible
+
+Reformatory/Re-education Camp/School
+
+### Articles
+
+- Noun
+  - Countable
+    - Singular
+      - Specific: a/an/the
+    - Plural
+      - General: (No) I love reading books
+      - Specific: (The) I love reading the books in that library
+  - Uncountable
+    - General: (No) Water is good for health
+    - Specific: (The) The water is highly polluted
+
+| The              | Nothing      |
+| ---------------- | ------------ |
+| The Himalayas    | Everest      |
+| The USA          | Vietnam      |
+| Something Unique | Asia, Europe |

@@ -185,7 +185,7 @@ Dialect: a branch or type of language
 ```
 
 ```
-1. culture relations 
+1. culture relations
 2. resources
 3. education
 4. contexts
@@ -193,3 +193,60 @@ Dialect: a branch or type of language
 6. accents
 7. slow process
 ```
+
+## Day 4
+
+```
+
+HOMETOWN
+1. Tell me about your hometown.
+2. Tell me about the people in your hometown.
+3. How has your hometown changed in the last few years?
+4. Do you plan to live there for a long time?
+
+
+ACCOMMODATION
+1. What kind of accommodation are you living in?
+2. What is your favorite room in the house?
+3. Is there anything you would like to change about your house?
+4. Would you say that your house is a good place for families with children?
+
+```
+
+### New Words
+
+- Vibrant: Pulsing with energy or activity, typically describes something that is full of energy, vivid, and bright.
+
+  Examples:
+
+  - New York City is known for its vibrant nightlife and diverse culture.
+  - The tech industry in Silicon Valley is vibrant, with startups and innovation driving growth.
+  - The parade was a celebration of the vibrant traditions of the local community.
+
+- Bustling: To move busily and energetically with fussiness (often followed by about).
+
+- House:
+
+  - Terraced house
+  - Semi-detached house
+  - Detached house
+  - Apartment/flat
+
+```
+My city has become more and more vibrant as time goes on.
+I love it.
+It used to be very dull with nothing much for young people to do but now bars and clubs are begun opening up.
+
+This city is no longer just for older generation with theaters and musuems.
+It has got a new lease of life where the great nightlife and increasing student population to enjoy it.
+```
+
+state-of-the-art facilities
+airy enough
+
+A century ago, this town was a high activity with many factories and pofs ....
+Nowadays, however, there is nowhere near bosling as many factories had moved down square. But i for one, there are certain points
+
+### Homework
+
+Prepare a group presentation with topic.
