@@ -630,3 +630,41 @@ Reformatory/Re-education Camp/School
 | The Himalayas    | Everest      |
 | The USA          | Vietnam      |
 | Something Unique | Asia, Europe |
+
+## Day 10
+
+### Maps
+
+#### Maps of Comparison, Maps of Development (mostly)
+
+- A Single map (rarely)
+
+- Multiple maps
+
+  - Many changes
+  - A few changes
+
+Step 1: 3Ws:
+
+- When: Present + Hypothesis (would)
+
+  - Present: everything on the map
+
+  - Hypothesis: induction
+
+    - S1 is located in the countryside, so it would have a lot of space
+
+Step 2: Keys
+
+- Housing Area/Residential Area
+- Industrial zone
+- No traffic zone = Walking area = Pedestrian zone
+
+Step 3: Features
+
+- Global: It is clear that each site has its own benefits and drawbacks. However, S1 seems to be more suitable for a supermarket
+- Individual:
+  - Where is it? (Relative position): `in close proximity to`
+  - What are located around it? Town? Facilities?
+  - How and by whom can it be accessed? (Traffic? People?)
+  - Any other feature
