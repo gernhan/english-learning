@@ -6,3 +6,14 @@
   Usages:
 
   - Exacerbation of income inequality
+
+- Augmented: To increase; to make larger or supplement
+  Examples:
+
+  - Augmented reality
+
+- Fragile ~ easily breakable
+
+- Radically ~ Fundamentally
+
+- Resemblances ~ Similarities

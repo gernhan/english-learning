@@ -250,3 +250,35 @@ Nowadays, however, there is nowhere near bosling as many factories had moved dow
 ### Homework
 
 Prepare a group presentation with topic.
+
+## Day 5
+
+Face ID, iris scanner (Facial recognition, geometry, a replacement of fingerprint recognition), more powerful chip, durable glass, wireless charging, `animoji`
+
+```
+1. physical object
+2. discern
+3. gestures
+4. water-resistent
+5. wireless charging
+6. glance
+7. geometry
+8. adapt
+9. optimize
+10. augmented reality
+```
+
+```
+1. powerful
+2. finishes
+3. sensors
+4. stablization
+5. cinema-standard
+6. immersive
+7. water-resistent
+8. battery life
+```
+
+### Homework
+
+Technology workbook

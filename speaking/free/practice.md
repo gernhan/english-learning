@@ -20,7 +20,7 @@ Talking about your job, your career aspirations, your workplace, etc.
 
 Discussing your travel experiences, favorite holiday destinations, memorable trips, etc.
 
-### Leisure Activities
+### Leisure Activities and Lifestyle
 
 Talking about your hobbies, interests, how you spend your free time, etc.
 

@@ -335,9 +335,26 @@ It is `set in` a context = It `revolves around` a context
   In this installment, Po faces a new challenge as he must confront a powerful villain threatening the balance of the kung fu world.
   Alongside his friends, the Furious Five, Po embarks on an epic journey filled with humor, action, and self-discovery.
 
-**Why you like this movie?**
+**Why do you like this movie?**
 
 - I enjoy "Kung Fu Panda 4" for its captivating storyline, vibrant animation, and engaging characters.
   The film seamlessly combines humor and heartwarming moments with exhilarating martial arts sequences.
   As Po continues to evolve and overcome obstacles, his journey resonates with viewers of all ages, imparting valuable lessons about courage, perseverance, family love, and the power of friendship.
   Additionally, the visually stunning animation and well-crafted storytelling make "Kung Fu Panda 4" an entertaining and unforgettable cinematic experience.
+
+## Day 7
+
+```
+- Quyết định xem sẽ nói cả về giống và khác nhau hay chỉ tập trung vào một cái và sử dụng cấu trúc tương ứng
+# Khác nhau:
++ There are several key distinctions between A & B, but the main one would be... S1 + V1 while S2 + V2.
++ A & B are distinct in some aspects, and I'd like to focus on... Whereas S1 + V1, S2 + V2.
++ A & B are like day and night / are as different as chalk and cheese. To begin with, S1 + V1. In contrast, S2 + V2. Another difference is that S1 + V1; however, S2 + V2.
+# Giống nhau:
++ A & B are similar in a few ways, and the most significant one would be ... To be more specific, ...
++ A & B bear some striking resemblances. Firstly, .... Another thing is....
+# Cả hai:
++ There are both similar and distinctive features regarding A & B. In terms of similarities, .... However, they are also very different in that ...
++ In some ways, they are similar, but there have been major changes over the years. About similarities, ... On the other hand, ...
+- Một sự giống/khác nhau lớn và tập trung khai thác là đủ, hoặc có thể đưa ra hai sự giống/khác nhau và mỗi cái nói qua thôi
+```

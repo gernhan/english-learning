@@ -1,5 +1,7 @@
 # Personal Information
 
+- [Vocabulary](/vocabulary/speaking/personal_information/words/personal_information.md)
+
 ## Task 1
 
 ### Q1
@@ -62,3 +64,5 @@ In essence, Thanh Ba is not just a place; it's a tapestry of memories, a sanctua
 
 - I believe my upbringing has played a significant role in shaping who I am today.
 - Growing up in a supportive family environment taught me the importance of kindness, resilience, and hard work.
+
+Compare houses in rural area and flats in city
